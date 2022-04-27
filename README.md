@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Ismail's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailvc1111&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailvc1111&layout=compact)](https://github.com/ismailvc1111/github-readme-stats)
+
 
 
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
